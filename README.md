@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tsalehm . 14 years old and born in Iran
+- 👋 Hi, I’m Saleh. Born to live and die with computers
 - 👀 I’m interested in : Python, C, C++, AHK -------  AVR, Arduino
 - 🌱 I’m currently learning Python and C++
 
